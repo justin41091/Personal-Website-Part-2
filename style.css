@@ -25,3 +25,31 @@ h3{
 
 	text-transform: uppercase;
 }
+
+body{
+	border: 15px solid #c9c9c9;
+	box-sizing: border-box;
+	margin: 0 auto;
+	min-width: 600px;
+	padding: 2rem 3rem;
+	width: 60%;
+}
+
+img{
+
+	width: 40%; 
+	height: 40%;
+	display:block;
+	margin-bottom: 2rem;
+}
+
+.firstparagraph {
+	font-style: italic;
+	color: #F2AA52;
+	line-height: 1.5;
+}
+
+li{
+
+	list-style-type: square;
+}
