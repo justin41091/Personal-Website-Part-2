@@ -1,13 +1,9 @@
 body{
 	color: #333333;
-}
-
-body{
 	font-family: "Times New Roman", Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6{
-
 	color: #58b4f5;
 	font-family: Arial, Helvetica, sans-serif;
 }
@@ -22,7 +18,6 @@ h2{
 }
 
 h3{
-
 	text-transform: uppercase;
 }
 
@@ -36,7 +31,6 @@ body{
 }
 
 img{
-
 	width: 40%; 
 	height: 40%;
 	display:block;
@@ -44,12 +38,11 @@ img{
 }
 
 .firstparagraph {
+	color: #F2AA52;	
 	font-style: italic;
-	color: #F2AA52;
 	line-height: 1.5;
 }
 
 li{
-
 	list-style-type: square;
 }
